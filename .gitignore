@@ -45,5 +45,5 @@ config/env/production.js
 *.njsproj.*
 *.sln
 /.vs
-
+google-auth.json
 test-results.xml
